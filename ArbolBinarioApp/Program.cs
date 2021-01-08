@@ -157,7 +157,7 @@ namespace ArbolBinarioApp
 
             NodoClas.ImprmirArbol(nodo1);
 
-            Console.WriteLine("EL ARBOL TIENE {0} NIVELES ", NodoClas.MetodoContarNiveles(nodo1));
+            Console.WriteLine("El arbol tiene {0} niveles ", NodoClas.MetodoContarNiveles(nodo1));
         }
         public static void MetodocontarHojas()
         {
